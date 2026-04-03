@@ -1,33 +1,32 @@
-<h1 align="center">Hiya 👾 I'm Dave Corley!</h1>
-<h3 align="center">When I was little, I wanted to be like John Carmack.</h3>
+# S3ctor
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magicaldave&label=Profile%20views&color=0e75b6&style=flat" alt="magicaldave" /> </p>
+OpenMW contributor — editor, scripting API, Lua infrastructure.
+Founder of [DreamWeave-MP](https://github.com/DreamWeave-MP). Maintainer at [Modding-OpenMW.com](https://modding-openmw.com).
+Linux implementer on [OMWSE](https://github.com/DreamWeave-MP/OMWSE).
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicaldave&theme=onedark&column=4&margin-w=15&margin-h=15" alt="magicaldave" /></a> </p>
+I build things that shouldn't exist yet. Then I give them away.
 
-- 🧠 I’m currently learning **Augmented & Virtual Reality and Game Design @Holberton**
+### Current work
 
-- 💪 Ask me about **Self-hosting, UnRAID, Proton, TES3MP**
+- **[Morrobroom](https://github.com/DreamWeave-MP/Morrobroom)** — Morrowind compiler for TrenchBroom
+- **[H3lp Yours3lf](https://dreamweave-mp.github.io/S3ctors-S3cret-St4sh/h3lp_yours3lf/)** — shared Lua helper library
+- **[S3maphore](https://dreamweave-mp.github.io/S3ctors-S3cret-St4sh/s3maphore/)** — event-driven music playback for OpenMW
+- **[Chim 2090](https://dreamweave-mp.github.io/S3ctors-S3cret-St4sh/chim_2090/)** — Dark Souls 1 combat in OpenMW
 
-- 📟 How to reach me **corleycomputerrepair@protonmail.ch**
+### Infrastructure
 
-<h3 align="left">Find me online:</h3>
-<p align="left">
+- **[DreamWeave Mod Template](https://github.com/DreamWeave-MP/DreamWeave-Mod-Template)** — mod sites for everyone
+- **[DreamScripts](https://github.com/DreamWeave-MP/DreamScripts)** — TES3MP backend, rebuilt from scratch
+- **[Makron](https://github.com/DreamWeave-MP/makron)** — CI build container for OpenMW modders
+- **[StroggForge](https://github.com/DreamWeave-MP/StroggForge)** — reusable GitHub Actions
 
-<a href="https://www.linkedin.com/in/dave-corley-859304242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dave-corley-859304242/" height="30" width="40" /></a>
-</p>
+### Shipped
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+[S3LightFixes](https://github.com/DreamWeave-MP/S3LightFixes) · [Rubic0n](https://github.com/DreamWeave-MP/luajit2) · [Openmw-Bumpmap-Translator](https://github.com/magicaldave/Openmw-Bumpmap-Translator)
+[BIRR](https://dreamweave-mp.github.io/S3ctors-S3cret-St4sh/birr/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magicaldave&show_icons=true&locale=en&layout=compact" alt="magicaldave" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magicaldave&show_icons=true&locale=en" alt="magicaldave" /></p>
+*the gaps are load-bearing*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magicaldave&" alt="magicaldave" /></p>
+[☕ amplify the signal](https://ko-fi.com/magicaldave) · [s3kshun8.games](https://s3kshun8.games)
