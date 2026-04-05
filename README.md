@@ -1,7 +1,7 @@
 # S3ctor
 
 OpenMW contributor — editor, scripting API, Lua infrastructure.
-Founder of [DreamWeave-MP](https://github.com/DreamWeave-MP). Maintainer at [Modding-OpenMW.com](https://modding-openmw.com).
+Founder of [DreamWeave-MP](https://github.com/DreamWeave-MP).
 Linux implementer on [OMWSE](https://github.com/DreamWeave-MP/OMWSE).
 
 I build things that shouldn't exist yet. Then I give them away.
